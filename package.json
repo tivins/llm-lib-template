@@ -1,6 +1,6 @@
 {
   "name": "import-remote-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,7 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "llm-lib-ts": "github:tivins/llm-lib-ts"
+    "llm-lib-ts": "github:tivins/llm-lib-ts#v0.8.0"
   },
   "devDependencies": {
     "@types/bun": "latest",

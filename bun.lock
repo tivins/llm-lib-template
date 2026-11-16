@@ -5,7 +5,7 @@
     "": {
       "name": "import-remote-ts",
       "dependencies": {
-        "llm-lib-ts": "github:tivins/llm-lib-ts",
+        "llm-lib-ts": "github:tivins/llm-lib-ts#v0.8.0",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -20,7 +20,7 @@
 
     "bun-types": ["bun-types@1.4.2", "", { "dependencies": { "@types/node": "*" } }, "sha512-bxV1FgK7yBIzjRe5zBozIM4Bem11ZJcCXSrjWRG3YWLt8yFDePu4cLjpebO8OvPeIE9trbyPF4fuj3Cia4Fj3w=="],
 
-    "llm-lib-ts": ["llm-lib-ts@github:tivins/llm-lib-ts#a66b755", {}, "tivins-llm-lib-ts-a66b755", "sha512-43fu4TGyDT9RAL0WiLeprDqUt7i+ymjiwuhK8bx7IYEJe1SZ/5nRhwipmDb0YOyVQ0giEDxTC1UMMQWx/by89Q=="],
+    "llm-lib-ts": ["llm-lib-ts@github:tivins/llm-lib-ts#3eb6c03", {}, "tivins-llm-lib-ts-3eb6c03", "sha512-mizolYPVbS2tV8VByLCMlKFFLEWaM1GaAyYAABX97l9t2TJR2V3Dyes0jaKLZY7EVBb0YnMfuIHCRXAN+uXYfA=="],
 
     "typescript": ["typescript@5.9.3", "", { "bin": { "tsc": "bin/tsc", "tsserver": "bin/tsserver" } }, "sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw=="],
 
